@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343115711847",
+    "firebase_url": "https://sat-perpration.firebaseio.com",
+    "project_id": "sat-perpration",
+    "storage_bucket": "sat-perpration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343115711847:android:05676626ef8372e0c2dbc2",
+        "android_client_info": {
+          "package_name": "sat.test.lax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343115711847-o7vpbn158025o5ffgb23u8e73e0mfd98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sat.test.lax",
+            "certificate_hash": "93dd78a080dffd5fd61b8c137ac4688a53ad379a"
+          }
+        },
+        {
+          "client_id": "343115711847-ujnmij8fcdqqjmu2t0k7bh0gdcojj46r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQv19Xp4oFvnoDCBuO-J758Hm3zATtQa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343115711847-ujnmij8fcdqqjmu2t0k7bh0gdcojj46r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
