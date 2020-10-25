@@ -1,4 +1,10 @@
-
+{
+  "project_info": {
+    "project_number": "343115711847",
+    "firebase_url": "https://sat-perpration.firebaseio.com",
+    "project_id": "sat-perpration",
+    "storage_bucket": "sat-perpration.appspot.com"
+  },
   "client": [
     {
       "client_info": {
